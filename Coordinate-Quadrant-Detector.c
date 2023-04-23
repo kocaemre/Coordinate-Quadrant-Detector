@@ -1,4 +1,4 @@
-// 2200003637 - Emre KOCA 
+// Emre KOCA 
 #define _CRT_SECURE_NO_WARNINGS //i am using visiual studio so i need to write in order to running scanf functions
 #include <stdio.h> // this is library for printf or etc.. functions
 int main(void) 
